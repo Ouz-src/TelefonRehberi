@@ -11,7 +11,7 @@ Kodluyoruz ekibine bu uygulamayı yazabilmemi sağlayacak eğitimi verdikleri i�
 
 ### ***English***
 
-# Phone Book c# Project
+# Phone Book C# Project
 ### A simple .NET Console app.
 Has functions like:
 1) Adding a new number
