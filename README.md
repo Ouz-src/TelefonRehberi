@@ -17,7 +17,7 @@ Has functions like:
 1) Adding a new number
 2) Deleting an existing number
 3) Updating an existing number
-4) Listing the current Phone Book
+4) Listing the current phone book
 5) Querying for a specific contact
 
 Special thanks to the Kodluyoruz team for the courses they gave which led me to build this app.
