@@ -1,5 +1,5 @@
-## Telefon Rehberi
-# Basit bir .NET Console uygulamasıdır.
+# Telefon Rehberi C# Projesi
+### Basit bir .NET Console uygulamasıdır.
 1) Yeni Numara Kaydetme
 2) Varolan Numarayı Silme
 3) Varolan Numarayı Güncelleme
