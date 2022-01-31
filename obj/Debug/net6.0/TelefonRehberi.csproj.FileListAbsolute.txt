@@ -1,0 +1,15 @@
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.exe
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.deps.json
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.runtimeconfig.json
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.dll
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\bin\Debug\net6.0\ref\TelefonRehberi.dll
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\bin\Debug\net6.0\TelefonRehberi.pdb
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.AssemblyInfo.cs
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.dll
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\obj\Debug\net6.0\ref\TelefonRehberi.dll
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.pdb
+C:\Users\UgurOguzhanPC\Documents\VSCode Projects\TelefonRehberi\obj\Debug\net6.0\TelefonRehberi.genruntimeconfig.cache
