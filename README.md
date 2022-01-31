@@ -12,7 +12,7 @@ Kodluyoruz ekibine bu uygulamayı yazabilmemi sağlayacak eğitimi verdikleri i�
 ### ***English***
 
 # Phone Book c# Project
-### A simple .Net Console app.
+### A simple .NET Console app.
 Has functions like:
 1) Adding a new number
 2) Deleting an existing number
